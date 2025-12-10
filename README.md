@@ -1,2 +1,2 @@
 # Portfolio-HTML-CSS-
-Portfolio made for freecodecamp using HTML(Hyper Text Markup Language) &amp; CSS(Cascading Style Sheets)
+A clean HTML/CSS portfolio showcasing my projects and learning path. Includes structured sections, simple styling, and responsive design. Built to practice front-end fundamentals and personal branding. My first step toward a professional developer identity.
